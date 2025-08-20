@@ -4,6 +4,12 @@
 
 Build a platform that helps researchers, students, and the pharmaceutical industry to predict molecule solubility, choose greener solvents, and learn chemistry interactively through AI.
 
+## 🚀 Live Demo
+
+**Try the application online:** [EcoSolvE Demo](https://ecosolv-intelligent-solvent-prediction.streamlit.app/)
+
+*The application is now live and ready to use!*
+
 ## 🔑 Main Features
 
 ### 1. Solubility Prediction (SolvPredict)
@@ -62,8 +68,8 @@ The system automatically suggests greener alternative solvents and provides an *
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd EcoSolvE
+   git clone https://github.com/michaelgermini/ecosolv-intelligent-solvent-prediction.git
+   cd ecosolv-intelligent-solvent-prediction
    ```
 
 2. **Install dependencies**
@@ -144,8 +150,20 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For support and questions:
 - Create an issue in the repository
-- Contact the development team
+- Contact the development team: **michael@germini.info**
 - Check the documentation
+
+## 👨‍💻 Contact
+
+**Developer:** Michael Germini  
+**Email:** michael@germini.info  
+**GitHub:** [@michaelgermini](https://github.com/michaelgermini)
+
+Feel free to reach out for:
+- Feature requests
+- Bug reports
+- Collaboration opportunities
+- Questions about the platform
 
 ## 🔮 Future Roadmap
 

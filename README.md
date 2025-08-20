@@ -114,7 +114,7 @@ The system automatically suggests greener alternative solvents and provides an *
 The application uses sample data for demonstration purposes. To integrate with real ML models:
 
 1. **Replace sample data** in `SOLVENTS_DATA` with actual predictions
-2. **Add RDKit integration** for molecular structure analysis
+2. **Add molecular structure analysis** using simplified algorithms
 3. **Connect to databases** for solvent property lookup
 4. **Implement ML models** for solubility prediction
 
